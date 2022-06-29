@@ -1,0 +1,9 @@
+Dockerfile
+/logs
+.git
+test
+.dockerignore
+.gitignore
+.cache
+*.md
+Makefile
